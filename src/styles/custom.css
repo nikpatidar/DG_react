@@ -1,0 +1,21 @@
+
+.customCon {
+    padding: 0 30px;
+}
+
+header {
+    align-items: center;
+}
+.box {
+    padding-top: 36px;
+    padding-bottom: 24px;
+}
+.box p {
+    color: #fff;
+}
+.box img {
+    width: 100%;
+}
+.backBtn img{
+    width: 30px;
+}
